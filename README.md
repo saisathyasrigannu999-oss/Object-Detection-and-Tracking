@@ -9,3 +9,5 @@
 > This project demonstrates important concepts of Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision. It provides hands-on experience in working with real-time image processing, neural network-based object detection, and multi-object tracking systems. The system can be extended for various real-world applications such as traffic monitoring, autonomous vehicles, smart surveillance systems, crowd analysis, security monitoring, industrial automation, and people counting systems.
 
 > The project is beginner-friendly and highly useful for students interested in AI and Data Science because it combines practical implementation with modern computer vision technologies. It also helps in understanding how intelligent systems analyze video streams and make real-time decisions based on visual data.
+
+<img width="806" height="593" alt="Image" src="https://github.com/user-attachments/assets/66393475-4f0c-4931-98f7-50a20a1d59ec" />
